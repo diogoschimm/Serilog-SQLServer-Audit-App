@@ -1,0 +1,8 @@
+@HostAddress = http://localhost:5250
+
+POST {{HostAddress}}/LoggerSample/RegisterAllLogs/
+Content-Type: application/json
+
+"Diogo"
+
+###
