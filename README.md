@@ -1,0 +1,1 @@
+# Serilog-SQLServer-Audit-App
